@@ -11,3 +11,4 @@ Projeto desenvolvido para o Concurso Agrinho 2026 – Categoria Programação, n
 Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente
 📌 Sobre o Projeto
 A proposta mostra como o agronegócio, a tecnologia, a indústria, a sustentabilidade e a vida urbana estão conectados em uma mesma cadeia produtiva.
+Por meio de textos, imagens e curiosidades, o site busca aproximar o visitante da realidade do campo e destacar a importância de produzir com responsabilidade ambiental.
