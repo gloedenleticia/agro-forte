@@ -7,3 +7,7 @@ Projeto desenvolvido para o Concurso Agrinho 2026 – Categoria Programação, n
 ###Creative Commons Attribution-Share Alike 4.0
 ###sul.jpg
 ###Creative Commons Attribution-Share Alike 4.0
+🌱 Tema do Concurso
+Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente
+📌 Sobre o Projeto
+A proposta mostra como o agronegócio, a tecnologia, a indústria, a sustentabilidade e a vida urbana estão conectados em uma mesma cadeia produtiva.
